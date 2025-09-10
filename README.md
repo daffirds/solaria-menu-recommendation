@@ -53,7 +53,7 @@ This project is a collaborative effort for **Mathematical Computing Applications
 
   * Cantik Almira M. Z. 
   * Nurani Candra W. 
-  * Daffa Firdaus (@daffirds)
+  * Daffa Firdaus ([@daffirds](https://github.com/daffirds))
   * Vera Tifani E.
   * Dicky Arya A. S.
   * Novita Aprilia P.
