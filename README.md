@@ -14,10 +14,10 @@ This project builds a recommendation system for menu items in *Solaria* restaura
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/daffirds/solaria-menu-recommendation.git
-   cd solaria-menu-recommendation
-````
+    ```bash
+    git clone https://github.com/daffirds/solaria-menu-recommendation.git
+    cd solaria-menu-recommendation
+    ```
 
 2. Open the Jupyter notebook:
 
@@ -28,15 +28,15 @@ This project builds a recommendation system for menu items in *Solaria* restaura
 
 4. Input your ratings for the 20 menu items by creating a list, for example:
 
-```python
-rating = [0, 0, 1, 2, 4, 5, ..., 2]  # replace ... with your ratings until all 20 items
-```
+    ```python
+    rating = [0, 0, 1, 2, 4, 5, ..., 2]  # replace ... with your ratings until all 20 items
+    ```
 
 5. Run the recommendation function:
 
-```python
-show_recom(rating)
-```
+    ```python
+    show_recom(rating)
+    ```
 
 This will display the recommended menu items based on your ratings.
 
