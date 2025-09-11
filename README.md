@@ -1,6 +1,6 @@
-# Solaria Personalized Menu Recommendation System 🍜
+# 🍜 Solaria Personalized Menu Recommendation System
 
-This project builds a recommendation system for menu items in *Solaria* restaurants based on customer ratings using Singular Value Decomposition (SVD).
+This project builds a personalized recommendation system for menu items in *Solaria* restaurants based on customer ratings using Singular Value Decomposition (SVD).
 
 ## Project Structure
 - `data/` : datasets used in the project.
@@ -42,7 +42,7 @@ This will display the recommended menu items based on your ratings.
 
 ## Requirements
 
-* Julia 1.11.5
+* Julia
 * Packages: `CSV`, `DataFrames`, `LinearAlgebra`, `Plots`, `BenchmarkTools`, `Dates`, `ColorSchemes`, `Random`
 
 ## Team
@@ -70,4 +70,4 @@ This project is described in more detail in the following paper:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
